@@ -1,0 +1,21 @@
+echo "DELETE"
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches
+./mobibench -p /mnt -d 2 -r 4 -n 5000 -j 3 -T 3 -D 3 -t 1 -L IO_Latency_2.txt  | grep -E '[TIME]'
+#echo 3 > /proc/sys/vm/drop_caches

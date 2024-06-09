@@ -1,0 +1,16 @@
+[global]
+directory=/mnt
+numjobs=8
+ioengine=libaio
+iodepth=1
+direct=1
+end_fsync=1
+fsync_on_close=1
+norandommap
+randrepeat=0
+bs=4k
+io_size=128M
+rw=randwrite
+
+[120]
+size=512M

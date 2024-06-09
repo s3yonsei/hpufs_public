@@ -1,0 +1,14 @@
+[global]
+directory=/mnt
+numjobs=1
+iodepth=8
+ioengine=libaio
+direct=1
+end_fsync=1
+fsync_on_close=1
+bs=4k
+io_size=52G
+rw=randwrite
+
+[trace]
+size=52G

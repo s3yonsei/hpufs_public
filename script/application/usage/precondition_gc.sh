@@ -1,0 +1,2 @@
+echo precondition_gc
+sudo fio precondition_gc
